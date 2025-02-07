@@ -1,0 +1,15 @@
+@media (min-width: 480px) {  
+    .box1 {  
+        flex: 1 1 calc(50% - 20px);  
+    }  
+}  
+@media (min-width: 650px) {  
+    .box1 {  
+        flex: 1 1 calc(33.33% - 20px);  
+    }  
+}  
+@media (min-width: 900px) {  
+    .box1 {  
+        flex: 1 1 calc(25% - 20px);  
+    }  
+}
